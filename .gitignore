@@ -1,0 +1,5 @@
+
+.erlang.mk
+deps
+ebin
+omega2_erl.d
