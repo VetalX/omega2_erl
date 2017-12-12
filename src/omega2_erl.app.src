@@ -11,5 +11,6 @@
   {env, []},
   {included_applications, []},
   {licenses, ["BSD"]},
-  {links, [{"Github", "https://github.com/VetalX/omega2_erl"}]}
+  {links, [{"Github", "https://github.com/VetalX/omega2_erl"}]},
+  {mod, {omega2_erl_app, []}}
 ]}.
